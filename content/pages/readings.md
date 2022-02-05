@@ -82,31 +82,333 @@ All readings presented in the table below refer to the required textbook:
 
 Senturia, Stephen D. _Microsystem Design_. New York, NY: Springer, 2004. ISBN: 9780792372462.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to MEMS; microfabrication for MEMS: part I | Chapters 1 and 2 |
-| 2 | Microfabrication for MEMS: part II | Chapters 3 and 4 |
-| 3 | Microfabrication for MEMS: part III | Chapters 3 and 4 |
-| 4 | Microfabrication for MEMS: part IV; in-class fab problem | Chapters 3 and 5 |
-| 5 | Fabrication for the life sciences; material properties | &nbsp; |
-| 6 | Elasticity or electronics I | Chapters 8 and 14 |
-| 7 | Structures or electronics II | Chapters 9 and 14 |
-| 8 | Lumped-element modeling | Chapter 5 |
-| 9 | Energy-conserving transducers | Chapter 6 |
-| 10 | Dynamics, especially nonlinear | Chapter 7 |
-| 11 | Structures special topics | Chapter 10 |
-| 12 | Thermal energy domain; dissipation | Chapter 11 |
-| 13 | Modeling dissipative processes | Chapter 12 |
-| 14 | Fluids 1 | Chapter 13 |
-| 15 | Fluids 2 | Chapter 13 |
-| 16 | Transport | Chapter 13 |
-| 17 | Feedback | Chapter 15 |
-| 18 | Noise | Chapter 16 |
-| 19 | Packaging | Chapter 17 |
-| 20 | In-class design problem | &nbsp; |
-| 21 | Design tradeoffs | &nbsp; |
-| 22 | Power MEMS case study | &nbsp; |
-| 23 | Optical MEMS case study | Chapter 20 |
-| 24 | Capacitive accelerometer case study | Chapter 19 |
-| 25 | BioMEMS case study | Chapter 22 |
-| &nbsp; | Final presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to MEMS; microfabrication for MEMS: part I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1 and 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 and 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part III
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 and 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part IV; in-class fab problem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 and 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fabrication for the life sciences; material properties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity or electronics I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 8 and 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Structures or electronics II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 9 and 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lumped-element modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Energy-conserving transducers
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics, especially nonlinear
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Structures special topics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal energy domain; dissipation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling dissipative processes
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Transport
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Noise
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Packaging
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In-class design problem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Design tradeoffs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Power MEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Optical MEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Capacitive accelerometer case study
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+BioMEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

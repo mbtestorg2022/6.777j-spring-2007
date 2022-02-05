@@ -56,31 +56,450 @@ JV: Session taught by Joel Voldman
 
 CL: Session taught by Carol Livermore
 
-| LEC # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction to MEMS; microfabrication for MEMS: part I | JV/CL |  |
-| 2 | Microfabrication for MEMS: part II | CL | Problem set 1 out |
-| 3 | Microfabrication for MEMS: part III | CL |  |
-| 4 | Microfabrication for MEMS: part IV; in-class fab problem | CL |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| 5 | Fabrication for the life sciences; material properties | CL |  |
-| 6 | Elasticity or electronics I | CL/JV |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| 7 | Structures or electronics II | CL/JV |  |
-| 8 | Lumped-element modeling | JV |  |
-| 9 | Energy-conserving transducers | JV |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| 10 | Dynamics, especially nonlinear | JV |  |
-| 11 | Structures special topics | CL | Design problem out |
-| 12 | Thermal energy domain; dissipation | JV | Problem set 4 due |
-| 13 | Modeling dissipative processes | JV |  {{< br >}}{{< br >}} Design problem due {{< br >}}{{< br >}} Problem set 5 out 2 days before L13 {{< br >}}{{< br >}}  |
-| 14 | Fluids 1 | JV |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Problem set 6 out {{< br >}}{{< br >}}  |
-| 15 | Fluids 2 | JV |  |
-| 16 | Transport | JV |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Problem set 7 out {{< br >}}{{< br >}}  |
-| 17 | Feedback | JV |  |
-| 18 | Noise | CL |  |
-| 19 | Packaging | CL | Problem set 7 due |
-| 20 | In-class design problem | CL |  |
-| 21 | Design tradeoffs | CL |  |
-| 22 | Power MEMS case study | CL |  |
-| 23 | Optical MEMS case study | CL |  |
-| 24 | Capacitive accelerometer case study | JV |  |
-| 25 | BioMEMS case study | JV |  |
-|  | Final presentations |  | Final report due 6 days after L25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to MEMS; microfabrication for MEMS: part I
+{{< tdclose >}}
+{{< tdopen >}}
+JV/CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part II
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part III
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Microfabrication for MEMS: part IV; in-class fab problem
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fabrication for the life sciences; material properties
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity or electronics I
+{{< tdclose >}}
+{{< tdopen >}}
+CL/JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Structures or electronics II
+{{< tdclose >}}
+{{< tdopen >}}
+CL/JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lumped-element modeling
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Energy-conserving transducers
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics, especially nonlinear
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Structures special topics
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+Design problem out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal energy domain; dissipation
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling dissipative processes
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design problem due
+
+Problem set 5 out 2 days before L13
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids 1
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Problem set 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids 2
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Transport
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Problem set 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Noise
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Packaging
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In-class design problem
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Design tradeoffs
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Power MEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Optical MEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+CL
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Capacitive accelerometer case study
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+BioMEMS case study
+{{< tdclose >}}
+{{< tdopen >}}
+JV
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final report due 6 days after L25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
